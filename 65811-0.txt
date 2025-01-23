@@ -1,4 +1,5 @@
-﻿The Project Gutenberg eBook of The ’Phone Booth Mystery, by John Ironside
+﻿The Project Gutenberg eBook of The 'Phone Booth Mystery, by John
+Ironside
 
 This eBook is for the use of anyone anywhere in the United States and
 most other parts of the world at no cost and with almost no restrictions
@@ -8,25 +9,21 @@ www.gutenberg.org. If you are not located in the United States, you
 will have to check the laws of the country where you are located before
 using this eBook.
 
-Title: The ’Phone Booth Mystery
+Title: The 'Phone Booth Mystery
 
 Author: John Ironside
 
-Release Date: July 17, 2021 [eBook #65811]
-[Most recently updated: October 14, 2021]
+Release Date: July 9, 2021 [eBook #65811]
 
 Language: English
 
-Character set encoding: UTF-8
-
 Produced by: Martin Pettit and the Online Distributed Proofreading Team
-at https://www.pgdp.net (This file was produced from images generously
-made available by The Internet Archive/American Libraries.)
+             at https://www.pgdp.net (This file was produced from images
+             generously made available by The Internet Archive/American
+             Libraries.)
 
-
-*** START OF THE PROJECT GUTENBERG EBOOK THE ’PHONE BOOTH MYSTERY ***
-
-
+*** START OF THE PROJECT GUTENBERG EBOOK THE 'PHONE BOOTH
+MYSTERY ***
 
 
 +-------------------------------------------------+
@@ -2721,7 +2718,7 @@ disturbed by a fierce onslaught of hail on the window-panes, and a
 blast of wind that swept and shrieked round the building like a legion
 of lost souls.
 
-“My word, hark at that! It’s going to be a wild night,” said Roger. “No
+“My word, bark at that! It’s going to be a wild night,” said Roger. “No
 crossing for us to-morrow if it’s like this. Why, you’re shivering,
 dearest. Cold?”
 
@@ -4963,7 +4960,7 @@ to drink, just as a mother might coax a sick and fretful child.
 
 She was far too absorbed to spare a glance or a thought for anyone else
 at the moment, and Austin took himself off, having no time to waste,
-and having achieved his immediate purpose--an appointment with Cacciola
+and having achieved his immediate purpose--an appointment With Cacciola
 at Rivercourt Mansions that evening. He was most anxious to begin a
 near study of that “psychological problem” of which Maddelena Cacciola
 was the most perplexing--yes, and the most attractive element!
@@ -8565,8 +8562,7 @@ the past--seemed very far away!
 
 THE END
 
-*** END OF THE PROJECT GUTENBERG EBOOK THE ’PHONE BOOTH
-MYSTERY ***
+*** END OF THE PROJECT GUTENBERG EBOOK THE 'PHONE BOOTH MYSTERY ***
 
 Updated editions will replace the previous one--the old editions will
 be renamed.
